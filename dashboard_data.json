@@ -1,0 +1,525 @@
+{
+  "kpis": {
+    "totalEmployees": 1470,
+    "attritionRate": 23.6,
+    "avgMonthlyIncome": 6997,
+    "avgTenure": 3.3,
+    "avgJobSatisfaction": 2.85,
+    "highRiskCount": 153
+  },
+  "byDepartment": [
+    {
+      "name": "Engineering",
+      "headcount": 261.0,
+      "attritionRate": 26.8,
+      "avgIncome": 7621.0
+    },
+    {
+      "name": "Finance",
+      "headcount": 92.0,
+      "attritionRate": 18.5,
+      "avgIncome": 6840.0
+    },
+    {
+      "name": "Human Resources",
+      "headcount": 98.0,
+      "attritionRate": 20.4,
+      "avgIncome": 5754.0
+    },
+    {
+      "name": "Research & Development",
+      "headcount": 568.0,
+      "attritionRate": 24.5,
+      "avgIncome": 7292.0
+    },
+    {
+      "name": "Sales",
+      "headcount": 451.0,
+      "attritionRate": 22.4,
+      "avgIncome": 6566.0
+    }
+  ],
+  "byJobRole": [
+    {
+      "name": "Research Scientist",
+      "headcount": 125.0,
+      "attritionRate": 32.0
+    },
+    {
+      "name": "Laboratory Technician",
+      "headcount": 141.0,
+      "attritionRate": 31.9
+    },
+    {
+      "name": "HR Specialist",
+      "headcount": 33.0,
+      "attritionRate": 30.3
+    },
+    {
+      "name": "Software Engineer",
+      "headcount": 57.0,
+      "attritionRate": 29.8
+    },
+    {
+      "name": "Sales Executive",
+      "headcount": 157.0,
+      "attritionRate": 28.7
+    },
+    {
+      "name": "Senior Engineer",
+      "headcount": 63.0,
+      "attritionRate": 27.0
+    },
+    {
+      "name": "QA Engineer",
+      "headcount": 66.0,
+      "attritionRate": 25.8
+    },
+    {
+      "name": "Engineering Manager",
+      "headcount": 75.0,
+      "attritionRate": 25.3
+    },
+    {
+      "name": "Sales Representative",
+      "headcount": 138.0,
+      "attritionRate": 23.2
+    },
+    {
+      "name": "Financial Analyst",
+      "headcount": 36.0,
+      "attritionRate": 22.2
+    },
+    {
+      "name": "R&D Manager",
+      "headcount": 164.0,
+      "attritionRate": 21.3
+    },
+    {
+      "name": "Accountant",
+      "headcount": 24.0,
+      "attritionRate": 20.8
+    },
+    {
+      "name": "HR Executive",
+      "headcount": 31.0,
+      "attritionRate": 19.4
+    },
+    {
+      "name": "Sales Manager",
+      "headcount": 156.0,
+      "attritionRate": 15.4
+    },
+    {
+      "name": "Manufacturing Director",
+      "headcount": 138.0,
+      "attritionRate": 13.8
+    },
+    {
+      "name": "Finance Manager",
+      "headcount": 32.0,
+      "attritionRate": 12.5
+    },
+    {
+      "name": "HR Manager",
+      "headcount": 34.0,
+      "attritionRate": 11.8
+    }
+  ],
+  "byAgeBand": [
+    {
+      "name": "18-25",
+      "headcount": 183.0,
+      "attritionRate": 30.1
+    },
+    {
+      "name": "26-30",
+      "headcount": 220.0,
+      "attritionRate": 24.5
+    },
+    {
+      "name": "31-35",
+      "headcount": 268.0,
+      "attritionRate": 23.1
+    },
+    {
+      "name": "36-40",
+      "headcount": 311.0,
+      "attritionRate": 22.5
+    },
+    {
+      "name": "41-45",
+      "headcount": 234.0,
+      "attritionRate": 18.8
+    },
+    {
+      "name": "46-50",
+      "headcount": 155.0,
+      "attritionRate": 21.3
+    },
+    {
+      "name": "51-60",
+      "headcount": 99.0,
+      "attritionRate": 29.3
+    }
+  ],
+  "byTenureBand": [
+    {
+      "name": "0-1 yrs",
+      "headcount": 613.0,
+      "attritionRate": 27.7
+    },
+    {
+      "name": "2-3 yrs",
+      "headcount": 332.0,
+      "attritionRate": 23.8
+    },
+    {
+      "name": "4-5 yrs",
+      "headcount": 216.0,
+      "attritionRate": 19.0
+    },
+    {
+      "name": "6-10 yrs",
+      "headcount": 220.0,
+      "attritionRate": 19.5
+    },
+    {
+      "name": "10+ yrs",
+      "headcount": 89.0,
+      "attritionRate": 15.7
+    }
+  ],
+  "byOvertime": [
+    {
+      "name": "No",
+      "headcount": 1047.0,
+      "attritionRate": 20.3
+    },
+    {
+      "name": "Yes",
+      "headcount": 423.0,
+      "attritionRate": 31.7
+    }
+  ],
+  "byJobSatisfaction": [
+    {
+      "name": "1 - Low",
+      "headcount": 216.0,
+      "attritionRate": 31.5
+    },
+    {
+      "name": "2 - Medium",
+      "headcount": 284.0,
+      "attritionRate": 26.1
+    },
+    {
+      "name": "3 - High",
+      "headcount": 471.0,
+      "attritionRate": 24.0
+    },
+    {
+      "name": "4 - Very High",
+      "headcount": 499.0,
+      "attritionRate": 18.4
+    }
+  ],
+  "byWorkLifeBalance": [
+    {
+      "name": "1 - Bad",
+      "headcount": 120.0,
+      "attritionRate": 29.2
+    },
+    {
+      "name": "2 - Good",
+      "headcount": 370.0,
+      "attritionRate": 29.2
+    },
+    {
+      "name": "3 - Better",
+      "headcount": 641.0,
+      "attritionRate": 21.8
+    },
+    {
+      "name": "4 - Best",
+      "headcount": 339.0,
+      "attritionRate": 18.9
+    }
+  ],
+  "salaryByLevel": [
+    {
+      "name": 1,
+      "headcount": 629,
+      "avgIncome": 6393,
+      "minIncome": 3427,
+      "maxIncome": 11084
+    },
+    {
+      "name": 2,
+      "headcount": 523,
+      "avgIncome": 7090,
+      "minIncome": 3789,
+      "maxIncome": 11798
+    },
+    {
+      "name": 3,
+      "headcount": 225,
+      "avgIncome": 7713,
+      "minIncome": 4544,
+      "maxIncome": 13494
+    },
+    {
+      "name": 4,
+      "headcount": 64,
+      "avgIncome": 8630,
+      "minIncome": 4698,
+      "maxIncome": 13590
+    },
+    {
+      "name": 5,
+      "headcount": 29,
+      "avgIncome": 9265,
+      "minIncome": 5610,
+      "maxIncome": 13776
+    }
+  ],
+  "salaryByDeptGender": [
+    {
+      "Department": "Engineering",
+      "Gender": "Female",
+      "avgIncome": 7456
+    },
+    {
+      "Department": "Engineering",
+      "Gender": "Male",
+      "avgIncome": 7729
+    },
+    {
+      "Department": "Finance",
+      "Gender": "Female",
+      "avgIncome": 7066
+    },
+    {
+      "Department": "Finance",
+      "Gender": "Male",
+      "avgIncome": 6694
+    },
+    {
+      "Department": "Human Resources",
+      "Gender": "Female",
+      "avgIncome": 5841
+    },
+    {
+      "Department": "Human Resources",
+      "Gender": "Male",
+      "avgIncome": 5673
+    },
+    {
+      "Department": "Research & Development",
+      "Gender": "Female",
+      "avgIncome": 7411
+    },
+    {
+      "Department": "Research & Development",
+      "Gender": "Male",
+      "avgIncome": 7205
+    },
+    {
+      "Department": "Sales",
+      "Gender": "Female",
+      "avgIncome": 6608
+    },
+    {
+      "Department": "Sales",
+      "Gender": "Male",
+      "avgIncome": 6539
+    }
+  ],
+  "genderPayGap": {
+    "maleAvg": 6967,
+    "femaleAvg": 7040,
+    "gapPercent": -1.0
+  },
+  "performanceByDept": [
+    {
+      "department": "Engineering",
+      "rating3": 207,
+      "rating4": 54
+    },
+    {
+      "department": "Finance",
+      "rating3": 80,
+      "rating4": 12
+    },
+    {
+      "department": "Human Resources",
+      "rating3": 91,
+      "rating4": 7
+    },
+    {
+      "department": "Research & Development",
+      "rating3": 489,
+      "rating4": 79
+    },
+    {
+      "department": "Sales",
+      "rating3": 388,
+      "rating4": 63
+    }
+  ],
+  "byDistance": [
+    {
+      "name": "0-5 km",
+      "headcount": 873.0,
+      "attritionRate": 22.8
+    },
+    {
+      "name": "6-10 km",
+      "headcount": 302.0,
+      "attritionRate": 20.5
+    },
+    {
+      "name": "11-15 km",
+      "headcount": 149.0,
+      "attritionRate": 30.2
+    },
+    {
+      "name": "16-20 km",
+      "headcount": 71.0,
+      "attritionRate": 25.4
+    },
+    {
+      "name": "21+ km",
+      "headcount": 75.0,
+      "attritionRate": 30.7
+    }
+  ],
+  "byPromotionGap": [
+    {
+      "name": "0 yrs",
+      "headcount": 517.0,
+      "attritionRate": 24.8
+    },
+    {
+      "name": "1 yr",
+      "headcount": 611.0,
+      "attritionRate": 25.0
+    },
+    {
+      "name": "2 yrs",
+      "headcount": 203.0,
+      "attritionRate": 20.7
+    },
+    {
+      "name": "3-4 yrs",
+      "headcount": 106.0,
+      "attritionRate": 18.9
+    },
+    {
+      "name": "5+ yrs",
+      "headcount": 33.0,
+      "attritionRate": 12.1
+    }
+  ],
+  "genderCompByDept": [
+    {
+      "Department": "Engineering",
+      "Female": 103,
+      "Male": 158
+    },
+    {
+      "Department": "Finance",
+      "Female": 36,
+      "Male": 56
+    },
+    {
+      "Department": "Human Resources",
+      "Female": 47,
+      "Male": 51
+    },
+    {
+      "Department": "Research & Development",
+      "Female": 239,
+      "Male": 329
+    },
+    {
+      "Department": "Sales",
+      "Female": 177,
+      "Male": 274
+    }
+  ],
+  "flightRisk": [
+    {
+      "Name": "Pamela Wilson",
+      "Department": "Research & Development",
+      "JobRole": "Manufacturing Director",
+      "YearsAtCompany": 4,
+      "JobSatisfaction": 2,
+      "OverTime": "Yes",
+      "riskScore": 8.0
+    },
+    {
+      "Name": "Sarah Ramirez",
+      "Department": "Sales",
+      "JobRole": "Sales Executive",
+      "YearsAtCompany": 6,
+      "JobSatisfaction": 2,
+      "OverTime": "Yes",
+      "riskScore": 7.0
+    },
+    {
+      "Name": "Kenneth Rivera",
+      "Department": "Sales",
+      "JobRole": "Sales Representative",
+      "YearsAtCompany": 12,
+      "JobSatisfaction": 1,
+      "OverTime": "Yes",
+      "riskScore": 7.0
+    },
+    {
+      "Name": "Steven Mitchell",
+      "Department": "Finance",
+      "JobRole": "Accountant",
+      "YearsAtCompany": 8,
+      "JobSatisfaction": 2,
+      "OverTime": "Yes",
+      "riskScore": 7.0
+    },
+    {
+      "Name": "Benjamin Ramirez",
+      "Department": "Sales",
+      "JobRole": "Sales Manager",
+      "YearsAtCompany": 8,
+      "JobSatisfaction": 2,
+      "OverTime": "Yes",
+      "riskScore": 7.0
+    },
+    {
+      "Name": "Anna Adams",
+      "Department": "Sales",
+      "JobRole": "Sales Representative",
+      "YearsAtCompany": 1,
+      "JobSatisfaction": 2,
+      "OverTime": "Yes",
+      "riskScore": 6.5
+    },
+    {
+      "Name": "Stephanie Hall",
+      "Department": "Research & Development",
+      "JobRole": "Laboratory Technician",
+      "YearsAtCompany": 4,
+      "JobSatisfaction": 2,
+      "OverTime": "Yes",
+      "riskScore": 6.5
+    },
+    {
+      "Name": "James Walker",
+      "Department": "Sales",
+      "JobRole": "Sales Executive",
+      "YearsAtCompany": 4,
+      "JobSatisfaction": 3,
+      "OverTime": "Yes",
+      "riskScore": 6.0
+    }
+  ]
+}
